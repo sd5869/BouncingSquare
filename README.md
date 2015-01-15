@@ -1,7 +1,7 @@
 BouncingSquare
 ==============
 
-A game created by in python using pygame library
+A game created in python using pygame library
 Please E-mail me if you can convert this game to .exe format
 E-mail:ssd5869@gmail.com
 I have uploaded whole RAR file on dropbox here is the link:
